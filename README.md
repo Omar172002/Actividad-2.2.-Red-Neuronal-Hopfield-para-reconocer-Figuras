@@ -1,0 +1,1 @@
+# Actividad-2.2.-Red-Neuronal-Hopfield-para-reconocer-Figuras
